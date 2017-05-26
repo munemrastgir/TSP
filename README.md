@@ -1,3 +1,3 @@
 # TSP
 Nearest Neighbor solution for the TSP 
-Uses examples from countries from files from website: http://www.math.uwaterloo.ca/tsp/world/countries.html
+Uses examples from country files in website: http://www.math.uwaterloo.ca/tsp/world/countries.html
