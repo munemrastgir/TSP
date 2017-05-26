@@ -1,6 +1,5 @@
 /*
 Munem Rastgir
-CSCI 335 
 Nearest Insertion Algorithm
 
 Main uses functions: 
