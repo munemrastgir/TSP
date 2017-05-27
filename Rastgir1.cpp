@@ -1,6 +1,5 @@
 /*
 Munem Rastgir
-CSCI 335
 Greedy TSP Algorithm
 
 Main uses functions:
